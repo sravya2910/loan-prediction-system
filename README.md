@@ -34,4 +34,4 @@ streamlit run app.py
 - Loan Approved / Rejected prediction
 
 ## 📌 Author
-Your Name
+Sravya Medarametla
